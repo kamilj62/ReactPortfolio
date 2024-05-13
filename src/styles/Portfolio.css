@@ -1,0 +1,27 @@
+.Portfolio {
+    color: #5465FF;
+    text-align: center;
+    margin: 0;
+    font-size: 3rem;
+    background-color: #E2FDFF;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.image{
+    color: #5465FF;
+    margin: 0;
+    font-size: 2rem;
+    background-color: #E2FDFF;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+figure {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+}
