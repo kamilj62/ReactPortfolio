@@ -1,6 +1,6 @@
 import '../styles/Portfolio.css'
 import weatherDashboard from '../assets/weatherDashboard.png';
-import javaScriptGame from '../assets/javaScriptGame.png'
+import javaScriptGame from '../assets/javascriptgame.png'
 import balanceBasics from '../assets/balanceBasics.png'
 import techBlog from '../assets/techBlog.png'
 import noteTaker from '../assets/noteTaker.png'
