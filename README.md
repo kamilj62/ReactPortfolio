@@ -33,7 +33,7 @@ none
 
 ## Tests
 
-![React Portfolio Screenshot](./src/assets/ReactPortfolioScreenshot.png);
+![React Portfolio Screenshot](./src/assets/ReactPortfolioScreenshot.png)
 
 ## Questions
 
