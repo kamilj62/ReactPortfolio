@@ -1,6 +1,6 @@
 import '../styles/Portfolio.css'
 import weatherDashboard from '../assets/weatherDashboard.png';
-import javaScriptGame from '../assets/javaScriptGame.png';
+import drumset from '../assets/drumset.png';
 import balanceBasics from '../assets/balanceBasics.png';
 import techBlog from '../assets/techBlog.png';
 import noteTaker from '../assets/noteTaker.png';
@@ -22,11 +22,11 @@ export default function Portfolio() {
         </figure>
       
         <figure>
-          <a href='https://kamilj62.github.io/javaScriptGame/'>
-            <img src={javaScriptGame} alt='javaScriptGame' />
+          <a href='https://kamilj62.github.io/DrumSet/'>
+            <img src={drumset} alt='drumset' />
           </a>
           <figcaption>
-            <a href='https://github.com/kamilj62/javaScriptGame'>JavaScript Game</a>
+            <a href='https://github.com/kamilj62/DrumSet'>Drumset</a>
           </figcaption>
         </figure>
 
